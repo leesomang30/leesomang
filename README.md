@@ -21,6 +21,7 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+![bitbucket](https://img.shields.io/badge/bitbucket-0052CC.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 **🛠️ Infra and Tools**
 
